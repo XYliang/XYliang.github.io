@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>用心做自己该做的事</title>
+  <subtitle>凡事不论成败，只要经历。这一生，本就是为了不输给自己而已。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xueyinliang.com/"/>
@@ -9,8 +9,8 @@
   <id>http://xueyinliang.com/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>薛银亮</name>
+    <email>492199045@qq.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
