@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xueyinliang.com/"/>
-  <updated>2016-05-11T09:45:28.000Z</updated>
+  <updated>2016-05-13T08:28:45.000Z</updated>
   <id>http://xueyinliang.com/</id>
   
   <author>
@@ -16,26 +16,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>iOS二维码操作</title>
     <link href="http://xueyinliang.com/2016/05/11/iOS%E4%BA%8C%E7%BB%B4%E7%A0%81%E6%93%8D%E4%BD%9C/"/>
     <id>http://xueyinliang.com/2016/05/11/iOS二维码操作/</id>
     <published>2016-05-11T08:51:31.000Z</published>
-    <updated>2016-05-11T09:45:28.000Z</updated>
+    <updated>2016-05-13T08:28:45.000Z</updated>
     
-    <content type="html">&lt;hr&gt;
-&lt;p&gt;title: iOS二维码操作&lt;br&gt;date: 2016-05-11 16:51:31&lt;/p&gt;
-&lt;p&gt;#iOS-ScanningCode&lt;/p&gt;
+    <content type="html">&lt;p&gt;#iOS-ScanningCode&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;功能：扫描二维码、条形码，生成二维码。具体使用请看项目。&lt;a href=&quot;https://github.com/XYliang/iOS-ScanningCode&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;github地址&lt;/a&gt; 喜欢的朋友们给个星星吧。萌萌哒。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;Image Displey(图片展示)&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Image Displey(图片展示)&lt;/p&gt;
+&lt;img src=&quot;https://github.com/XYliang/GithubImages/blob/master/iOS-ScanningCode/1.PNG?raw=true&quot; width=&quot;100&quot; height=&quot;200&quot; title=&quot;titile&quot;&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;https://github.com/XYliang/GithubImages/blob/master/iOS-ScanningCode/1.PNG?raw=true =375x667&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://github.com/XYliang/GithubImages/blob/master/iOS-ScanningCode/1.PNG?raw=true&quot; width=&quot;375&quot; height=&quot;667&quot; alt=&quot;图片名称&quot; align=&quot;center&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://github.com/XYliang/GithubImages/blob/master/iOS-ScanningCode/2.PNG?raw=true&quot; width=&quot;375&quot; height=&quot;667&quot; alt=&quot;图片名称&quot; align=&quot;center&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://github.com/XYliang/GithubImages/blob/master/iOS-ScanningCode/4.PNG?raw=true&quot; width=&quot;375&quot; height=&quot;667&quot; alt=&quot;图片名称&quot; align=&quot;center&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://github.com/XYliang/GithubImages/blob/master/iOS-ScanningCode/5.PNG?raw=true&quot; width=&quot;375&quot; height=&quot;667&quot; alt=&quot;图片名称&quot; align=&quot;center&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/XYliang/GithubImages/blob/master/iOS-ScanningCode/1.PNG?raw=true&quot; width=&quot;50%&quot; height=&quot;50%&quot; alt=&quot;图片名称&quot; align=&quot;center&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://github.com/XYliang/GithubImages/blob/master/iOS-ScanningCode/2.PNG?raw=true&quot; width=&quot;50%&quot; height=&quot;50%5&quot; alt=&quot;图片名称&quot; align=&quot;center&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/XYliang/GithubImages/blob/master/iOS-ScanningCode/4.PNG?raw=true&quot; width=&quot;50%&quot; height=&quot;50%&quot; alt=&quot;图片名称&quot; align=&quot;center&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://github.com/XYliang/GithubImages/blob/master/iOS-ScanningCode/5.PNG?raw=true&quot; width=&quot;50%&quot; height=&quot;50%&quot; alt=&quot;图片名称&quot; align=&quot;center&quot;&gt;&lt;/p&gt;
 &lt;h3 id=&quot;使用方法&quot;&gt;&lt;a href=&quot;#使用方法&quot; class=&quot;headerlink&quot; title=&quot;使用方法&quot;&gt;&lt;/a&gt;使用方法&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;首先，你需要把项目中的XYLScaningCodeKit文件夹拖拽到你的项目任意位置，然后就可以开始使用了。&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;添加二维码界面&lt;/p&gt;
@@ -75,11 +72,9 @@
     
     <summary type="html">
     
-      &lt;hr&gt;
-&lt;p&gt;title: iOS二维码操作&lt;br&gt;date: 2016-05-11 16:51:31&lt;/p&gt;
-&lt;p&gt;#iOS-ScanningCode&lt;/p&gt;
+      &lt;p&gt;#iOS-ScanningCode&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;功能：扫描二维码、条形码，生成二维码。具体使用请看项目。&lt;a href=&quot;https
+&lt;p&gt;功能：扫描二维码、条形码，生成二维码。具体使用请看项目。&lt;a href=&quot;https://github.com/XYliang/iOS-ScanningCode&quot; target=&quot;_blank&quot; r
     
     </summary>
     
